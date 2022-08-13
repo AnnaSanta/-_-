@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.AssemblyInfo.cs
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\bin\Debug\net6.0\Domahnarabota№2.exe
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\bin\Debug\net6.0\Domahnarabota№2.deps.json
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\bin\Debug\net6.0\Domahnarabota№2.runtimeconfig.json
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\bin\Debug\net6.0\Domahnarabota№2.dll
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\bin\Debug\net6.0\Domahnarabota№2.pdb
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.dll
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\refint\Domahnarabota№2.dll
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.pdb
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\Domahnarabota№2.genruntimeconfig.cache
+C:\Users\Анна\Desktop\Домашняя работа\Domahnarabota№2\obj\Debug\net6.0\ref\Domahnarabota№2.dll
